@@ -1,0 +1,8 @@
+Convolution-is a mathematical anaylysis of input signals which helps in extracting the features of these input signals and by combining them into less computational feature.
+Filters/Kernals: These are the basic building block of convolution of image pixels to find edge for extracting its feature.
+Epochs: This parameter is a sample in training data set which defines the number of times the algorithm will work in that data set
+1*1 convolution: used for dimensional reduction in the filter
+3*3 convolution: It gives us convolved fetaure from an image eg used for edge detection or making the image sharp
+Feature maps: after convolving the filter to a image, we get the output at each layer as feature map
+Activation function: by using this function outpul signal is gained by applying this function to input signal to a node in an artificial neural network.
+Receptive field: This indicates the matrix in input image which is helping parameter to a feature in any layer of te network
